@@ -1,4 +1,13 @@
 #BowHealth created by uselesswaifu
 
+actionbar:
+ enable: false
+ format: '&9%name% &7is now at &c%health% &7<3'
+ fadein: 1
+ duration: 0
+ fadeout: 1
+
 #Change Message Format
-Format: '&6BH &8| &9%name% &7is now at &e%health% &c<3'
+message:
+ enable: true
+ format: '&8[&cBowHealth&8] &9%name% &7is now at &c%health% &7<3'
